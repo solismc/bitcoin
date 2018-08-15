@@ -10,12 +10,19 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title"></h1>
         </header>
-        <p className="App-intro">
+        <section className="App-intro">
           <CurrencyList/>
-        </p>
+        </section>
       </div>
     );
   }
 }
 
 export default App;
+
+
+
+
+
+
+

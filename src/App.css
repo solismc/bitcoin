@@ -3,7 +3,6 @@
   background-color: black;
   color: white;
   font-family: 'Waiting for the Sunrise';
-  height: 45em;
 
 }
 
@@ -22,7 +21,7 @@
 }
 
 .App-title {
-  font-size: 36px;
+  font-size: 1.5em;
 }
 
 .App-intro {
