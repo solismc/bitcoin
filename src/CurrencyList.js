@@ -42,7 +42,7 @@ class CurrencyList extends Component {
             />
           );
         })}
-        <h4>last updated at {this.state.lastUpdateTime.toLocaleString()}</h4>
+        <h4>Last updated at {this.state.lastUpdateTime.toLocaleString()}</h4>
       </div>
     );
   }
